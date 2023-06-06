@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author PC1-17
+ * @author Romario - estradaflorezromario@artesyletras.edu.co
  */
 public class Panel extends JPanel {
 

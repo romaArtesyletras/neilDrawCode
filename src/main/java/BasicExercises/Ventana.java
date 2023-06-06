@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author PC1-17
+ * @author @author Romario - estradaflorezromario@artesyletras.edu.co
  */
 public class Ventana extends JFrame {
 
